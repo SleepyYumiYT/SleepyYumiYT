@@ -34,7 +34,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/SleepyYumiYT/SleepyYumiYT/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
