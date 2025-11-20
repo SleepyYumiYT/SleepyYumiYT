@@ -38,6 +38,6 @@
 
 ###
 
-<h4 align="left">If you need anything please dm me on discord!<br>User: .ritsuki.</h4>
+<h4 align="left">If you need anything please dm me on discord!<br>User: .ritsuka.</h4>
 
 ###
