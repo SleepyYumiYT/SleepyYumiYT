@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm 16 years old and I'm a someone that likes to have fun with coding, I'm from Japan, Tokyo!</p>
+<p align="left">I'm 19 years old and I'm someone that likes to have fun with coding, I'm from Japan, Tokyo!</p>
 
 ###
 
